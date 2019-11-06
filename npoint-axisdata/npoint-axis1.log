@@ -1,0 +1,8 @@
+write, addr: 11832208, val:        0
+write, addr: 118321F8, val:        1
+write, addr: 118321F4, val:        2
+write, addr: 11832200, val:        4
+write, addr: 11832204, val:     3F56
+write, addr: 11832D50, val:        1
+write, addr: 11832D54, val:        1
+write, addr: 11832208, val:        1
